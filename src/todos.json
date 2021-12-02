@@ -1,0 +1,29 @@
+{
+    "todos": [
+        {
+            "titulo": "Tarea 1",
+            "responsable": "Mark",
+            "descripcion": "lorem impsum",
+            "prioridad": "baja"
+            
+        },
+
+        {
+            "titulo": "Tarea 2",
+            "responsable": "Ryan",
+            "descripcion": "lorem impsum 2",
+            "prioridad": "media"
+            
+        },
+
+        {
+            "titulo": "Tarea 3",
+            "responsable": "Joseph",
+            "descripcion": "lorem impsum 3",
+            "prioridad": "alta"
+            
+        }
+
+      
+    ]
+}
